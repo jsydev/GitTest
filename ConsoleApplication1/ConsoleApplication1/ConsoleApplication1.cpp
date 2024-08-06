@@ -6,7 +6,8 @@
 
 int main()
 {
-	printf("test");
+	printf("test\n");
+	printf("test2\n");
     return 0;
 }
 
