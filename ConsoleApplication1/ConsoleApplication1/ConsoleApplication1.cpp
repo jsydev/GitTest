@@ -11,6 +11,8 @@ int main()
 
 	printf("test3\n");
 
+	printf("test4 Å×½ºÆ®\n");
+
     return 0;
 }
 
