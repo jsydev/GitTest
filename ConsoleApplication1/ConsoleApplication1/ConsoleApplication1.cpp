@@ -12,6 +12,7 @@ int main()
 	printf("test3\n");
 
 	printf("test4 Å×½ºÆ®11\n");
+	printf("testetsetse");
 
     return 0;
 }
