@@ -11,7 +11,7 @@ int main()
 
 	printf("test3\n");
 
-	printf("test4 테스트\n");
+	printf("test4 테스트11\n");
 
     return 0;
 }
