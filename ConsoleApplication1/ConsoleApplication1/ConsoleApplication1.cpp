@@ -14,6 +14,7 @@ int main()
 	printf("test4 테스트11\n");
 	printf("testetsetse");
 	printf("추가테스트");
+	printf("test4-1");
 
     return 0;
 }
