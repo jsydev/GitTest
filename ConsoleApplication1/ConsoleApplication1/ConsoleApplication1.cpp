@@ -13,6 +13,7 @@ int main()
 
 	printf("test4 테스트11\n");
 	printf("testetsetse");
+	printf("testetsetse");
 	printf("추가테스트");
 
     return 0;
